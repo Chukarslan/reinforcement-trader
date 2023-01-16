@@ -1,0 +1,5 @@
+tensorflow==2.4.0
+tf-agents==0.6.0
+yfinance==0.1.54
+matplotlib==3.3.2
+tk==0.1.0
