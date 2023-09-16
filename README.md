@@ -1,4 +1,4 @@
-# reinforcement-trader (WIP)
+# reinforcement-trader (Abandoned)
 
 v0.0.1 (at some point I need to use Sphinx for version control, maybe not for a simple script)
 
